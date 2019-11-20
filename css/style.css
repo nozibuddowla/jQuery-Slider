@@ -1,0 +1,16 @@
+#flip,
+#panel {
+  padding: 5px;
+  width: 70%;
+  margin: 0 auto;
+  background-color: teal;
+  color: white;
+  text-align: center;
+}
+#flip {
+  border: 1px solid black;
+  cursor: pointer;
+}
+#panel {
+  padding: 50px;
+}
